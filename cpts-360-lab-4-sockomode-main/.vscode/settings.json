@@ -1,0 +1,14 @@
+{
+    "C_Cpp.errorSquiggles": "enabled",
+    "files.associations": {
+        "kmlab_given.h": "c",
+        "fs.h": "c",
+        "module.h": "c",
+        "kernel.h": "c",
+        "uaccess.h": "c",
+        "list.h": "c",
+        "string.h": "c",
+        "unistd.h": "c",
+        "userapp.h": "c"
+    }
+}
